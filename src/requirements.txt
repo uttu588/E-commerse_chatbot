@@ -6,3 +6,7 @@ groq
 semantic-router[local]
 chromadb
 sentence_transformers
+
+sqlite3
+requests
+beautifulsoup4
