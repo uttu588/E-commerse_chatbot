@@ -6,7 +6,7 @@ import sys
 sys.path.append(os.path.join(os.path.dirname(__file__), 'src'))
 
 # Import your chatbot logic (example from App/main.py)
-from app import main
+from App import main
 
 st.set_page_config(page_title="E-commerce Chatbot", page_icon="🛍️")
 
